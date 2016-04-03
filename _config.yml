@@ -49,7 +49,7 @@ url:
 baseurl: ""
 
 # In order to access data in repository, user must specify github username
-githubuser: 
+githubuser: dengmi0908
 
 #
 # !! You don't need to change any of the configuration flags below !!
