@@ -6,10 +6,10 @@
 name: Mi
 
 # Short bio or description (displayed in the header)
-description: Mi's website
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAASGAAAAJDc4NGM4MTdmLWMyNTMtNGY5Yy04OTMzLTZhZjY2NDVkNDk5NA.jpg
+avatar: 
 #
 # Flags below are optional
 #
@@ -20,7 +20,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: 
   instagram:
   linkedin:
   pinterest:
@@ -40,7 +40,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:dengmi0908.github.io
+url: 
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -49,7 +49,7 @@ url:dengmi0908.github.io
 baseurl: ""
 
 # In order to access data in repository, user must specify github username
-githubuser: dengmi0908
+githubuser: 
 
 #
 # !! You don't need to change any of the configuration flags below !!
